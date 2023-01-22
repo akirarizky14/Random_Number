@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Random_Number/static/css/main.31d6cfe0.css",
+    "main.js": "/Random_Number/static/js/main.08f9d227.js",
+    "index.html": "/Random_Number/index.html",
+    "main.08f9d227.js.map": "/Random_Number/static/js/main.08f9d227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.08f9d227.js"
+  ]
+}
